@@ -4,6 +4,4 @@ import androidx.lifecycle.ViewModel
 
 class MainActivityViewModel(
     val injectedClass: InjectedClass
-) : ViewModel() {
-
-}
+) : ViewModel()
